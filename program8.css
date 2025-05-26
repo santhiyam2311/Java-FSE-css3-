@@ -1,0 +1,25 @@
+.eventCard {
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid #4caf50;
+  background-color: #f1f1f1;
+}
+
+.highlight {
+  outline: 2px solid #2196f3;
+  margin-bottom: 10px;
+}
+
+.hiddenBox {
+  visibility: hidden;
+  background-color: #ffe082;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.noneBox {
+  display: none;
+  background-color: #ffccbc;
+  padding: 10px;
+  margin: 10px 0;
+}
